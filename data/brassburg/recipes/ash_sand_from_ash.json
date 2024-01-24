@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AA",
+        "AA"
+    ],
+    "key": {
+        "A": {
+            "item": "supplementaries:ash"
+        }
+    },
+    "result": {
+        "item": "chipped:ash_sand",
+        "count": 1
+    }
+}
