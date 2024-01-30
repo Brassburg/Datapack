@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:basalt"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:blank_basalt_carving",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

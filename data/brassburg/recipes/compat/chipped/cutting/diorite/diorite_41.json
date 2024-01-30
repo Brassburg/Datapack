@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:diorite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:small_diorite_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

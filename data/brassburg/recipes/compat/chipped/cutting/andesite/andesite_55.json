@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:andesite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:tiny_layered_andesite_slabs",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

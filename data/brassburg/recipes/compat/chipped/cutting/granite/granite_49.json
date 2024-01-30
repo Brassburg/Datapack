@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:granite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:angry_granite",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

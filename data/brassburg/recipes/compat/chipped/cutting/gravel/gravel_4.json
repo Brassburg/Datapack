@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:orange_gravel",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

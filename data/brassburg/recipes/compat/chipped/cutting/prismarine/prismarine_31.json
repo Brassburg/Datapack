@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:prismarine"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_disordered_prismarine_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

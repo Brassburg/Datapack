@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:calcite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:prismal_calcite_remnants",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

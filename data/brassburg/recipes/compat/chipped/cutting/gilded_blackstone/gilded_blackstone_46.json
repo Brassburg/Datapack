@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:gilded_blackstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:checkered_gilded_blackstone_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

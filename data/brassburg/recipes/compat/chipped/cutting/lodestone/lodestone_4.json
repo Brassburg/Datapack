@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:lodestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:lodestone_pillar_top",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

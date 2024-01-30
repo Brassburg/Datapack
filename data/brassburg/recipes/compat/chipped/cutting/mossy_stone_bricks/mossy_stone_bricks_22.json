@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:mossy_stone_bricks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:edged_mossy_stone_bricks_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

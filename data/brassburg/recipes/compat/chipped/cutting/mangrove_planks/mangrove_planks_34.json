@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:mangrove_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:laced_mangrove_planks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

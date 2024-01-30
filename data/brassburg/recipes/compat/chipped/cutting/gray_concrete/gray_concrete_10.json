@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:gray_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:hazard_gray_concrete",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

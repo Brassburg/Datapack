@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:andesite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:vertical_disordered_andesite_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

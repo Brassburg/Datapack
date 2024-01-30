@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:crimson_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:vertically_railed_crimson_planks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

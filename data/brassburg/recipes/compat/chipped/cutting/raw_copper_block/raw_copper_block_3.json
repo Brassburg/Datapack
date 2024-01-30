@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:raw_copper_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:engraved_raw_copper_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:netherrack"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:runic_carved_netherrack",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

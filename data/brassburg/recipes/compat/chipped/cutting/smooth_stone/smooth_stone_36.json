@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:smooth_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:blank_smooth_stone_carving",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

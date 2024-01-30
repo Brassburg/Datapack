@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:netherrack"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:fine_netherrack_pillar",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

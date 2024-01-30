@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:oak_snowflake_glass",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:packed_ice"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:spiraled_packed_ice",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

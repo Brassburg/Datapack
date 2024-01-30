@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:spruce_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:wickered_spruce_planks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

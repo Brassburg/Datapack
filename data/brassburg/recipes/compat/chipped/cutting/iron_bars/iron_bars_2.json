@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:iron_bars"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:barbed_iron_bars",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

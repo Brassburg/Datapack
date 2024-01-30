@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:dirt"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:vertical_disordered_dirt_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

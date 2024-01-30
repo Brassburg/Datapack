@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:nether_bricks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:fine_nether_bricks_pillar",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

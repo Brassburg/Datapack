@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:magma_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_flat_magma_block_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

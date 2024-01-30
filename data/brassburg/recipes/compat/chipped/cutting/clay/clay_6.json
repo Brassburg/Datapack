@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:clay"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:thick_inlayed_clay",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

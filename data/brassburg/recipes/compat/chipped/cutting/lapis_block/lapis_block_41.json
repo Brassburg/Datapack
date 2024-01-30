@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:lapis_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:small_lapis_block_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

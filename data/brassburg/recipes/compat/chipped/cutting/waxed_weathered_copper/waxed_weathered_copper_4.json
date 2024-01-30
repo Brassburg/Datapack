@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:waxed_weathered_copper"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:stacked_waxed_weathered_copper",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

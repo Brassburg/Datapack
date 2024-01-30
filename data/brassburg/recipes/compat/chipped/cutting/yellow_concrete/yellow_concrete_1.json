@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:yellow_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:grid_yellow_concrete",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

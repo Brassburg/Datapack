@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:diorite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:tiny_layered_diorite_slabs",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

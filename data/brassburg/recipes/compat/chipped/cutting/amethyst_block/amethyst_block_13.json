@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:amethyst_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:brick_bordered_amethyst_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:sandstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_flat_sandstone_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

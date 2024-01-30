@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:waxed_exposed_copper"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:stacked_waxed_exposed_copper",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

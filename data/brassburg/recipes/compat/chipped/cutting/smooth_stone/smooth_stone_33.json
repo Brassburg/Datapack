@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:smooth_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_smooth_stone_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

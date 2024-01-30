@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:crying_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:angry_crying_obsidian",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

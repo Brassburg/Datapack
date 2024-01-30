@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:quartz_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:flat_quartz_block_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

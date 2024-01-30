@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:redstone_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:smooth_redstone_block_column",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

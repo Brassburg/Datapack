@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:emerald_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:sheet_emerald_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

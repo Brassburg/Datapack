@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:magma_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:magma_block_scales",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

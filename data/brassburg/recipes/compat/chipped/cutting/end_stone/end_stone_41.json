@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:end_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:small_end_stone_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

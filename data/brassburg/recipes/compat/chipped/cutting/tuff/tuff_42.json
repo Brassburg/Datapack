@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:tuff"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:smooth_tuff_column",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

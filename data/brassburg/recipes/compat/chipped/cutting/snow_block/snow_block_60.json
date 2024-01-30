@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:snow_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:vertical_disordered_snow_block_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

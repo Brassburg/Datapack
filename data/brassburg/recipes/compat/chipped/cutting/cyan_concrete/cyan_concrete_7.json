@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:cyan_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cyan_concrete_panel",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

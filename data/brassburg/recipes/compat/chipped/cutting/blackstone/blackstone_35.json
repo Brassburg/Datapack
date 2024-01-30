@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:blackstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:prismal_blackstone_remnants",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

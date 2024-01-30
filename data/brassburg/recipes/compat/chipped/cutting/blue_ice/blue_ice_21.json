@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:blue_ice"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cobbled_blue_ice",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

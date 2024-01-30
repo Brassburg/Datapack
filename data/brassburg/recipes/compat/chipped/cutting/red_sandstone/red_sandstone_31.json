@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:red_sandstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_disordered_red_sandstone_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

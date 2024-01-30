@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:brown_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:railed_brown_concrete",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

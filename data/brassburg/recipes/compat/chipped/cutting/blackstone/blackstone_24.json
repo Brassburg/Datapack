@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:blackstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:eroded_blackstone",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

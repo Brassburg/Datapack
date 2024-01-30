@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:jungle_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:jungle_planks_panel",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

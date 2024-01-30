@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:amethyst_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:amethyst_block_scales",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:ancient_debris"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_flat_ancient_debris_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

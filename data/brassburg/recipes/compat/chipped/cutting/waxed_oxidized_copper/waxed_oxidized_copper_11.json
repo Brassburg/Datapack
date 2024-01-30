@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:waxed_oxidized_copper"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:polished_waxed_oxidized_copper",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:diamond_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:stacked_diamond_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

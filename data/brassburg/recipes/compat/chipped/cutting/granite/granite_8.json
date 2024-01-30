@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:granite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:layed_granite_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

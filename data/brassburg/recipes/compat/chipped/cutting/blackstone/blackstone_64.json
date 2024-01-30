@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:blackstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:fine_blackstone_pillar",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:calcite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:weathered_calcite",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

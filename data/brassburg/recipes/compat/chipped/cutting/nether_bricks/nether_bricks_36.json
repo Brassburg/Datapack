@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:nether_bricks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:blank_nether_bricks_carving",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

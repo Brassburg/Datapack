@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:bricks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:thick_inlayed_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:end_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:curly_end_stone_pillar",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

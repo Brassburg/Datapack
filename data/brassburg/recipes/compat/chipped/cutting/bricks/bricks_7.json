@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:bricks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:rough_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

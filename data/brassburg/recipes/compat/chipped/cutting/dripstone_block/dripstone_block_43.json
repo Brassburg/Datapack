@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:dripstone_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:smooth_inlayed_dripstone_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

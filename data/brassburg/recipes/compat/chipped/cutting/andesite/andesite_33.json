@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:andesite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_andesite_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

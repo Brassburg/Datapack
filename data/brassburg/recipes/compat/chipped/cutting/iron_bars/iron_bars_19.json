@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:iron_bars"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:victorian_iron_bars_pikes",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

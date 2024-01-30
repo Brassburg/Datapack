@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:coal_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:creeper_coal_block_carving",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

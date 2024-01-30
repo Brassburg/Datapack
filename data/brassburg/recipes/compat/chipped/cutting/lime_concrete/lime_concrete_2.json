@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:lime_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:lime_concrete_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

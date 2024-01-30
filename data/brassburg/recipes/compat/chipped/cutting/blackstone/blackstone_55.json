@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:blackstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:tiny_layered_blackstone_slabs",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

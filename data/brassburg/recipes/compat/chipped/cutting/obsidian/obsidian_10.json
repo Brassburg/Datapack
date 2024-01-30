@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:tiny_layered_obsidian_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

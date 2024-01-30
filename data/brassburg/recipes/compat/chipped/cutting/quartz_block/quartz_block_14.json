@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:quartz_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:offset_quartz_block_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

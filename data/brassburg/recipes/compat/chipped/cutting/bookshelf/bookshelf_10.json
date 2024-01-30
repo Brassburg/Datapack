@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:bookshelf"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:vertical_botanical_oak_bookshelf",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

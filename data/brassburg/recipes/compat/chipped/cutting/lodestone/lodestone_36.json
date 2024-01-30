@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:lodestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:blank_lodestone_carving",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

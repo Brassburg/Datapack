@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:calcite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:layed_calcite_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

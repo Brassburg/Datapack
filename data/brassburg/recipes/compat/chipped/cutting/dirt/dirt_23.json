@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:dirt"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:creeper_dirt_carving",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

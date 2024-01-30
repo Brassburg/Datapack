@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:crying_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:rounded_crying_obsidian_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:dark_prismarine"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:tiny_layered_dark_prismarine_slabs",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

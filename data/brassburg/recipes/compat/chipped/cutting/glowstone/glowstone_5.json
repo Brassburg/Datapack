@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:glowstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_glowstone",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

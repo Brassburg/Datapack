@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:light_gray_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:reinforced_light_gray_concrete",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}
