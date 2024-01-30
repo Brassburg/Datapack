@@ -23,11 +23,6 @@
         {
             "chance": 0.0275,
             "item": "create:crushed_raw_gold"
-        },
-        {
-            "chance": 0.75,
-            "count": 2,
-            "item": "create:experience_nugget"
         }
     ]
 }
