@@ -1,0 +1,33 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "minecraft:gilded_blackstone"
+        }
+    ],
+    "processingTime": 350,
+    "results": [
+        {
+            "count": 1,
+            "item": "minecraft:blackstone"
+        },
+        {
+            "count": 2,
+            "item": "minecraft:gold_nugget"
+        },
+        {
+            "chance": 0.69,
+            "count": 3,
+            "item": "minecraft:gold_nugget"
+        },
+        {
+            "chance": 0.0275,
+            "item": "create:crushed_raw_gold"
+        },
+        {
+            "chance": 0.75,
+            "count": 2,
+            "item": "create:experience_nugget"
+        }
+    ]
+}
