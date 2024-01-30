@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:black_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:black_concrete_panel",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

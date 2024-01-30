@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:raw_copper_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:overlapping_raw_copper_block_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

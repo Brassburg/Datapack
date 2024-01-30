@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:redstone_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:edged_redstone_block_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

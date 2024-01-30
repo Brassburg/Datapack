@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:red_sandstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:smooth_ringed_red_sandstone",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

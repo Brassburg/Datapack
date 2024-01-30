@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:smooth_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:prismal_smooth_stone_remnants",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

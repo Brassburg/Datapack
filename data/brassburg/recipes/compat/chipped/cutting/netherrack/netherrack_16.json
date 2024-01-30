@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:netherrack"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:netherrack_mini_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:red_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:grill_red_concrete",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

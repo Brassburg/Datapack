@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:clay"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:clay_scales",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

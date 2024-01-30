@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:coal_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:vertical_cut_coal_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

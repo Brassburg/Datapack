@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:warped_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:warped_planks_shavings",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

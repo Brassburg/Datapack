@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:crying_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:overlapping_crying_obsidian_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

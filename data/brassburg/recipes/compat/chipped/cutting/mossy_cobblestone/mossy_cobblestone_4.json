@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:mossy_cobblestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:mossy_cobblestone_pillar_top",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:purpur_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:massive_purpur_block_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

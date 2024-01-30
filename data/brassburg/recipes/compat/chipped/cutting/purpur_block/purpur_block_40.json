@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:purpur_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:sanded_purpur_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

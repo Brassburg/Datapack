@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:sandstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:smoothed_double_inlayed_sandstone",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

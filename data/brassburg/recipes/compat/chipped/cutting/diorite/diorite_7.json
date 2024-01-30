@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:diorite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:rough_diorite",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

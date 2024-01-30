@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:purpur_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:overlapping_purpur_block_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

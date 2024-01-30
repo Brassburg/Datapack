@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:sandstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:tiny_brick_bordered_sandstone",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

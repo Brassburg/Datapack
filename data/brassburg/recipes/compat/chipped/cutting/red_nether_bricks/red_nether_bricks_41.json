@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:red_nether_bricks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:small_red_nether_bricks_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:dripstone_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:edged_dripstone_block_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

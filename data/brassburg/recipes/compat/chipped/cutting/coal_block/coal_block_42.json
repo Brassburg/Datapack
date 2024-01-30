@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:coal_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:smooth_coal_block_column",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

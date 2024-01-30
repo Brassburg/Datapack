@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:dark_prismarine"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:prismal_dark_prismarine_remnants",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

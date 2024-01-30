@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:cobblestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_flat_cobblestone_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

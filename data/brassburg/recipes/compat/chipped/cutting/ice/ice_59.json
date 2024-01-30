@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:ice"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:vertical_cut_ice",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

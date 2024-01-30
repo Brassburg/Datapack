@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:white_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:stop_white_concrete",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

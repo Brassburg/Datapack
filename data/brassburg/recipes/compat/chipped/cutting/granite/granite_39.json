@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:granite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cut_granite_column",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

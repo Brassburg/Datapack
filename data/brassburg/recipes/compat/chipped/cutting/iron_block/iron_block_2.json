@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:iron_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:iron_block_panels",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

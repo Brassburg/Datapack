@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:redstone_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:fine_redstone_block_pillar",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

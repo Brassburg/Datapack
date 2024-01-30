@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:clay"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_flat_clay_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

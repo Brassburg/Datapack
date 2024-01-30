@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:snow_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:duh_snow_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

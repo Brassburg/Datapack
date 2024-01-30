@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:raw_iron_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:fine_raw_iron_block_pillar",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

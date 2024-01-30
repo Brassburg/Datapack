@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:tuff"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_tuff_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

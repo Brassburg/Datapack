@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:bricks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:spider_bricks_carving",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

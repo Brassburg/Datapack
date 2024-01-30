@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:ice"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:blank_ice_carving",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

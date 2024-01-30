@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:ancient_debris"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:blank_ancient_debris_carving",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

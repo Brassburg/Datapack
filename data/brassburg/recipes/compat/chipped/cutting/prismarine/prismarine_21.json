@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:prismarine"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cobbled_prismarine",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

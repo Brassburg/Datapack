@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:cobblestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:tiled_cobblestone_column",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

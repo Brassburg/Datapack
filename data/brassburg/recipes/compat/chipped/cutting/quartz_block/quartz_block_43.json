@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:quartz_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:smooth_inlayed_quartz_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

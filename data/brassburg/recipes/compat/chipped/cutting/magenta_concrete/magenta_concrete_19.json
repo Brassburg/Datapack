@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:magenta_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:striped_magenta_concrete",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

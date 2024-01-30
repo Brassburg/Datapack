@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:dripstone_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:dripstone_block_mini_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

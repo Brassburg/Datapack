@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:mossy_cobblestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:thick_inlayed_mossy_cobblestone",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

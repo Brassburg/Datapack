@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:fancy_leaded_glass",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

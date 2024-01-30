@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:clay"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:spider_clay_carving",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

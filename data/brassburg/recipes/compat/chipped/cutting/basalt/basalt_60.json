@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:basalt"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:vertical_disordered_basalt_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

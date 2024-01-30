@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:clay"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:runic_carved_clay",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:granite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:thick_inlayed_granite",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

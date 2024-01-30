@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:bricks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:runic_carved_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:gold_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:layered_gold_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

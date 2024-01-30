@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:raw_iron_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:tiled_bordered_raw_iron_block",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

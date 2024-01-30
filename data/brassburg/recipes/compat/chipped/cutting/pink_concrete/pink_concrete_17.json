@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:pink_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:stop_pink_concrete",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

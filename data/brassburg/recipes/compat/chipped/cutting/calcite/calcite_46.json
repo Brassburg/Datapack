@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:calcite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:checkered_calcite_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

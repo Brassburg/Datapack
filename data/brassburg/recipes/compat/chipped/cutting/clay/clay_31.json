@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:clay"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:cracked_disordered_clay_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:lapis_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:overlapping_lapis_block_tiles",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

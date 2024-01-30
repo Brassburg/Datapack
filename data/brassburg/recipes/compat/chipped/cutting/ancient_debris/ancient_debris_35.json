@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:ancient_debris"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:prismal_ancient_debris_remnants",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

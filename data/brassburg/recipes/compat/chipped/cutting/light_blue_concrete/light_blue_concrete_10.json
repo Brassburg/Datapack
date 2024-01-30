@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:light_blue_concrete"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:hazard_light_blue_concrete",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

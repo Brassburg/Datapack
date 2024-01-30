@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:smooth_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:tiled_bordered_smooth_stone",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

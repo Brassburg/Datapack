@@ -1,0 +1,16 @@
+{
+    
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:andesite"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:polished_andesite",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  } 

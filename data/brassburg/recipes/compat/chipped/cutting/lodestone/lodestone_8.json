@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:lodestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:layed_lodestone_bricks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

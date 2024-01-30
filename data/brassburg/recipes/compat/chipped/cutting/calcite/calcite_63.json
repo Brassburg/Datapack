@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:calcite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:curly_calcite_pillar",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

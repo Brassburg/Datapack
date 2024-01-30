@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:birch_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:vertical_birch_planks",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

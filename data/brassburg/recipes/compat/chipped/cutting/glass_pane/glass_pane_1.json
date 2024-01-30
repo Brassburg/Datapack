@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:glass_pane"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:oak_woven_glass_pane",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:gilded_blackstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:gilded_blackstone_pillar_top",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}
