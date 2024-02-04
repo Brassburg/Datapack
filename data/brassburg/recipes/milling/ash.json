@@ -8,7 +8,8 @@
   "processingTime": 100,
   "results": [
     {
-      "item": "supplementaries:ash"
+      "item": "supplementaries:ash",
+      "count": 4
     },
     {
       "chance": 0.15,
