@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:spruce_leaves"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:orange_spruce_leaves"
+      }
+    ]
+  }

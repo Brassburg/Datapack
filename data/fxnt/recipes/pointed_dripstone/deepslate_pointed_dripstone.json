@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:pointed_dripstone"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:deepslate_pointed_dripstone"
+      }
+    ]
+  }

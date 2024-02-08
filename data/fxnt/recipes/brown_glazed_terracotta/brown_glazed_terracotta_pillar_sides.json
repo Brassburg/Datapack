@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:brown_glazed_terracotta"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:brown_glazed_terracotta_pillar_sides"
+      }
+    ]
+  }

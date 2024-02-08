@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:yellow_concrete"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:yellow_concrete_bricks"
+      }
+    ]
+  }

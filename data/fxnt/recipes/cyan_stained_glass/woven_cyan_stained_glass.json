@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:cyan_stained_glass"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:woven_cyan_stained_glass"
+      }
+    ]
+  }

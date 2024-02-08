@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:cyan_wool"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:harsh_quilted_cyan_wool"
+      }
+    ]
+  }

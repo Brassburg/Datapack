@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:blue_stained_glass"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:tiled_blue_stained_glass"
+      }
+    ]
+  }

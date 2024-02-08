@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:orange_carpet"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:woved_orange_carpet"
+      }
+    ]
+  }

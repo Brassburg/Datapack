@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:magenta_stained_glass_pane"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:small_magenta_stained_glass_pane"
+      }
+    ]
+  }

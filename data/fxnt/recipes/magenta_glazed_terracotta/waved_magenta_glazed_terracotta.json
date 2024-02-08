@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:magenta_glazed_terracotta"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:waved_magenta_glazed_terracotta"
+      }
+    ]
+  }

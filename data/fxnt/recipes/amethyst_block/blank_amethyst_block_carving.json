@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:amethyst_block"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:blank_amethyst_block_carving"
+      }
+    ]
+  }

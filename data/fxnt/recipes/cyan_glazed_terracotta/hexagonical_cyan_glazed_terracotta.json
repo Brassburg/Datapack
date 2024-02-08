@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:cyan_glazed_terracotta"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:hexagonical_cyan_glazed_terracotta"
+      }
+    ]
+  }

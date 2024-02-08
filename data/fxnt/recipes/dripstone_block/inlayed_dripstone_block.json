@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:dripstone_block"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:inlayed_dripstone_block"
+      }
+    ]
+  }

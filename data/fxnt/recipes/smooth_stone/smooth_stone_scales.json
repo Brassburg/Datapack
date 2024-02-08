@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:smooth_stone"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:smooth_stone_scales"
+      }
+    ]
+  }

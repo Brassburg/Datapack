@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:black_wool"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:cornered_black_wool"
+      }
+    ]
+  }

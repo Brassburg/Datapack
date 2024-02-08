@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:ancient_debris"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:trodden_ancient_debris"
+      }
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:iron_block"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:layered_iron_block"
+      }
+    ]
+  }

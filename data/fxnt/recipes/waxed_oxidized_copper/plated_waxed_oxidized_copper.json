@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:waxed_oxidized_copper"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:plated_waxed_oxidized_copper"
+      }
+    ]
+  }

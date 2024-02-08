@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:waxed_weathered_copper"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:embossed_waxed_weathered_copper"
+      }
+    ]
+  }

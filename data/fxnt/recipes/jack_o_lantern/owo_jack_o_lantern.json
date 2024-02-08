@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:jack_o_lantern"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:owo_jack_o_lantern"
+      }
+    ]
+  }

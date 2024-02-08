@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:snow_block"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:stacked_snow_block_bricks"
+      }
+    ]
+  }
