@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:nether_bricks"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:blank_nether_bricks_carving"
+      }
+    ]
+  }

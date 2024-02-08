@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:brown_mushroom_block"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:light_spotted_brown_mushroom_block"
+      }
+    ]
+  }

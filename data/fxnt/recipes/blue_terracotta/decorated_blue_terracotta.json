@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:blue_terracotta"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:decorated_blue_terracotta"
+      }
+    ]
+  }

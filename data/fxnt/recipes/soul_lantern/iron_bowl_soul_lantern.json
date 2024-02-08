@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:soul_lantern"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:iron_bowl_soul_lantern"
+      }
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:purple_carpet"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:cross_haired_purple_carpet"
+      }
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:glass_pane"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:circle_oak_glass_pane"
+      }
+    ]
+  }

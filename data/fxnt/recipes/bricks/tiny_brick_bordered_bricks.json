@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:bricks"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:tiny_brick_bordered_bricks"
+      }
+    ]
+  }

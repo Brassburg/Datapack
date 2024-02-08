@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:brown_stained_glass"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:large_diamond_brown_stained_glass"
+      }
+    ]
+  }

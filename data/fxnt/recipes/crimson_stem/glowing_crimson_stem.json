@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:crimson_stem"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:glowing_crimson_stem"
+      }
+    ]
+  }

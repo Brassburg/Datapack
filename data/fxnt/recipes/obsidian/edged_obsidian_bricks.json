@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:obsidian"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:edged_obsidian_bricks"
+      }
+    ]
+  }

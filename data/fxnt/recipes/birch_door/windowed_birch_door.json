@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:birch_door"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:windowed_birch_door"
+      }
+    ]
+  }

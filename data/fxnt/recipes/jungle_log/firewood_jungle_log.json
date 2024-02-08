@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:jungle_log"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:firewood_jungle_log"
+      }
+    ]
+  }

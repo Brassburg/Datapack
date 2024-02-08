@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:stripped_spruce_log"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:d_sign_stripped_spruce_log"
+      }
+    ]
+  }

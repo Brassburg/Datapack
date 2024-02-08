@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:brown_concrete"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:reinforced_brown_concrete"
+      }
+    ]
+  }

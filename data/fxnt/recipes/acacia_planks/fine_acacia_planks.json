@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:acacia_planks"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:fine_acacia_planks"
+      }
+    ]
+  }

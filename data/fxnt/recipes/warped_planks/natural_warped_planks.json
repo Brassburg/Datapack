@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:warped_planks"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:natural_warped_planks"
+      }
+    ]
+  }

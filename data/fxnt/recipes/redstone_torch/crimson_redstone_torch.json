@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:redstone_torch"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:crimson_redstone_torch"
+      }
+    ]
+  }

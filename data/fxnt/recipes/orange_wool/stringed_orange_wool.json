@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:orange_wool"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:stringed_orange_wool"
+      }
+    ]
+  }

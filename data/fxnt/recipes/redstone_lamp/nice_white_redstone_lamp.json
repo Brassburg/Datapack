@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:redstone_lamp"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:nice_white_redstone_lamp"
+      }
+    ]
+  }

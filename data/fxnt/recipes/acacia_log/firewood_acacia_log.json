@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:acacia_log"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:firewood_acacia_log"
+      }
+    ]
+  }

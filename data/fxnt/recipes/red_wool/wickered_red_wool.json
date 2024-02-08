@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:red_wool"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:wickered_red_wool"
+      }
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:cyan_concrete"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:bolted_cyan_concrete"
+      }
+    ]
+  }

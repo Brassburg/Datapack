@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:mossy_cobblestone"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:polished_mossy_cobblestone"
+      }
+    ]
+  }

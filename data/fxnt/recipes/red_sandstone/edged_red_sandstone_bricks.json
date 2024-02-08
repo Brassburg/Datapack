@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:red_sandstone"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:edged_red_sandstone_bricks"
+      }
+    ]
+  }

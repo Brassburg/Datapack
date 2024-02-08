@@ -1,0 +1,15 @@
+{
+    "group": "fxnt_create_chipped",
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:stripped_crimson_stem"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:k_sign_stripped_crimson_stem"
+      }
+    ]
+  }
