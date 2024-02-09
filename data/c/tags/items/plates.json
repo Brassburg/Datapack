@@ -1,8 +1,8 @@
 {
-    "replace": false,
-    "values": [
-      "createdeco:cast_iron_sheet",
-      "createdeco:netherite_sheet",
-      "createdeco:zinc_sheet"
-    ]
-  }
+  "replace": false,
+  "values": [
+    "createdeco:cast_iron_sheet",
+    "createdeco:netherite_sheet",
+    "createdeco:zinc_sheet"
+  ]
+}

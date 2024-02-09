@@ -1,29 +1,25 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"pattern":
-	[" R ",
-	 "CBC",
-	 " W "],
-	"key":
-	{
-		"R":
-		{
+	"pattern": [
+		" R ",
+		"CBC",
+		" W "
+	],
+	"key": {
+		"R": {
 			"tag": "c:copper_rods"
 		},
-		"B":
-		{
+		"B": {
 			"item": "create:brass_casing"
 		},
-		"C":
-		{
+		"C": {
 			"item": "createaddition:capacitor"
 		},
-		"W":
-		{
+		"W": {
 			"tag": "c:wires/electrum"
 		}
 	},
-	"result":{
+	"result": {
 		"item": "createaddition:modular_accumulator",
 		"count": 1
 	}

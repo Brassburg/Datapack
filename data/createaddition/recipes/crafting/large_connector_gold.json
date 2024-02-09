@@ -2,19 +2,19 @@
 	"type": "minecraft:crafting_shapeless",
 	"ingredients": [
 		{
-		    "tag": "c:gold_rods"
+			"tag": "c:gold_rods"
 		},
 		{
-		    "item": "create:andesite_alloy"
+			"item": "create:andesite_alloy"
 		},
 		{
-		    "item": "create:andesite_alloy"
+			"item": "create:andesite_alloy"
 		},
 		{
-		    "tag": "c:slimeballs"
+			"tag": "c:slimeballs"
 		}
 	],
-	"result":{
+	"result": {
 		"item": "createaddition:large_connector",
 		"count": 2
 	}
