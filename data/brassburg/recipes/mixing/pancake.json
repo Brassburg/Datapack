@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "fluid": "milk:still_milk",
+            "amount": 81000
+        },
+        {
+            "tag": "c:dough"
+        },
+        {
+            "tag": "c:eggs"
+        }
+    ],
+    "results": [
+        {
+            "item": "supplementaries:pancake",
+            "count": 3
+        }
+    ]
+}
