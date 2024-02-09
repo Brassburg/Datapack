@@ -1,0 +1,38 @@
+{
+    "group": "jar",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "212",
+        "2 2",
+        "222"
+    ],
+    "key": {
+        "1": {
+            "tag": "minecraft:wooden_slabs"
+        },
+        "2": [
+            {
+                "tag": "c:colorless_glass"
+            },
+            {
+                "item": "connectedglass:clear_glass"
+            },
+            {
+                "item": "connectedglass:borderless_glass"
+            },
+            {
+                "item": "chipped:clear_leaded_glass"
+            }
+        ]
+    },
+    "result": {
+        "item": "supplementaries:jar",
+        "count": 1
+    },
+    "conditions": [
+        {
+            "type": "supplementaries:flag",
+            "flag": "jar"
+        }
+    ]
+}
