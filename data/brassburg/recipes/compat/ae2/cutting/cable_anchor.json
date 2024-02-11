@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "ae2:metal_ingots"
+      }
+    ],
+    "results": [
+      {
+        "item": "ae2:cable_anchor",
+        "count": 4
+      }
+    ],
+    "processingTime": 50
+  }
