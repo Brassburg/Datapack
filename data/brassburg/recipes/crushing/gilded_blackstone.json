@@ -2,7 +2,7 @@
     "type": "create:crushing",
     "ingredients": [
         {
-            "item": "minecraft:gilded_blackstone"
+            "tag": "chipped:gilded_blackstone"
         }
     ],
     "processingTime": 350,

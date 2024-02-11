@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "fluid": "create:honey",
+            "amount": 20250
+        }
+    ],
+    "results": [
+        {
+            "item": "supplementaries:candy",
+            "count": 8
+        }
+    ]
+}

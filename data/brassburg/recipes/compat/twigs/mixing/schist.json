@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+        {
+            "item": "minecraft:quartz"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        }
+    ],
+    "results": [
+        {
+            "item": "twigs:schist"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+        {
+            "fluid": "minecraft:water",
+            "amount": 81000
+        },
+        {
+            "item": "supplementaries:ash"
+        },
+        {
+            "item": "supplementaries:ash"
+        },
+        {
+            "item": "supplementaries:ash"
+        },
+        {
+            "item": "supplementaries:ash"
+        },
+        {
+            "item": "minecraft:porkchop"
+        }
+    ],
+    "results": [
+        {
+            "item": "supplementaries:soap",
+            "count": 6
+        }
+    ]
+}

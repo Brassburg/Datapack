@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "ae2:all_nether_quartz"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "item": "ae2:light_detector"
+    }
+}

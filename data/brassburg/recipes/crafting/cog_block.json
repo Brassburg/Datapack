@@ -16,7 +16,7 @@
       "item": "minecraft:copper_ingot"
     },
     "R": {
-      "item": "minecraft:redstone"
+      "item": "minecraft:redstone_block"
     },
     "G": {
       "item": "create:cogwheel"
@@ -24,6 +24,6 @@
   },
   "result": {
     "item": "supplementaries:cog_block",
-    "count": 16
+    "count": 6
   }
 }

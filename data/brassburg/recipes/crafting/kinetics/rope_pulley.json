@@ -1,19 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
-    "B": {
+    "C": {
       "item": "create:andesite_casing"
     },
-    "C": {
-      "item": "supplementaries:rope"
+    "R": {
+      "tag": "supplementaries:ropes"
     },
     "I": {
       "tag": "c:iron_plates"
     }
   },
   "pattern": [
-    "B",
     "C",
+    "R",
     "I"
   ],
   "result": {

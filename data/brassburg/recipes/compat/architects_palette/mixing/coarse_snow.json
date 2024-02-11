@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:snow_block"
+        },
+        {
+            "item": "minecraft:gravel"
+        }
+    ],
+    "results": [
+        {
+            "item": "architects_palette:coarse_snow",
+            "count": 2
+        }
+    ]
+}

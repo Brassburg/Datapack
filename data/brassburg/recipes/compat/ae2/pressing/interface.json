@@ -1,0 +1,13 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+        {
+            "item": "ae2:interface"
+        }
+    ],
+    "results": [
+        {
+            "item": "ae2:cable_interface"
+        }
+    ]
+}

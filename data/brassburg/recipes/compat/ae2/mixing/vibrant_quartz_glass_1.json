@@ -1,0 +1,63 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+        {
+            "tag": "ae2:all_quartz_dust"
+        },
+        {
+            "tag": "ae2:all_quartz_dust"
+        },
+        {
+            "tag": "ae2:all_quartz_dust"
+        },
+        {
+            "tag": "ae2:all_quartz_dust"
+        },
+        {
+            "tag": "ae2:all_quartz_dust"
+        },
+        {
+            "tag": "c:glass"
+        },
+        {
+            "tag": "c:glass"
+        },
+        {
+            "tag": "c:glass"
+        },
+        {
+            "tag": "c:glass"
+        },
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "minecraft:glowstone_dust"
+        }
+    ],
+    "results": [
+        {
+            "item": "ae2:quartz_vibrant_glass",
+            "count": 4
+        }
+    ]
+}
