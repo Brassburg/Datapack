@@ -1,5 +1,6 @@
 {
     "type": "create:mixing",
+    "heatRequirement": "heated",
     "ingredients": [
         {
             "item": "architects_palette:sunmetal_blend"
