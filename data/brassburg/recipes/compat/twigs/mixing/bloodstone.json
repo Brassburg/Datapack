@@ -1,0 +1,16 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:quartz"
+        },
+        {
+            "item": "minecraft:iron_nugget"
+        }
+    ],
+    "results": [
+        {
+            "item": "twigs:bloodstone"
+        }
+    ]
+}
