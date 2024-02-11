@@ -1,0 +1,25 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "twigs:silt"
+      }
+    ],
+    "processingTime": 100,
+    "results": [
+      {
+        "item": "twigs:silt_ball",
+        "count": 4
+      },
+      {
+        "chance": 0.25,
+        "count": 1,
+        "item": "twigs:silt_ball"
+      },
+      {
+        "chance": 0.125,
+        "count": 1,
+        "item": "minecraft:quartz"
+      }
+    ]
+  }
