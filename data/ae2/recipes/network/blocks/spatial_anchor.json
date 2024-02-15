@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "a": {
+        "item": "ae2:spatial_pylon"
+      },
+      "b": {
+        "item": "ae2:fluix_glass_cable"
+      },
+      "c": {
+        "item": "ae2:spatial_cell_component_128"
+      },
+      "d": {
+        "tag": "c:iron_ingots"
+      },
+      "e": {
+        "item": "ae2:engineering_processor"
+      }
+    },
+    "pattern": [
+      "aaa",
+      "bcb",
+      "ded"
+    ],
+    "result": {
+      "item": "minecraft:written_book",
+      "nbt": "{filtered_title:\"Chunk Loaders\",pages:['{\"text\":\"Chunk Loading has been disabled. Speak to Tur on Discord to learn more. Sorry.\"}'], title: \"Chunk Loaders\", author: \"JayTurnr\", authentic: true}"
+    }
+  }

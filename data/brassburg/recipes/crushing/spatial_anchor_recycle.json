@@ -1,0 +1,43 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        [
+            {
+                "item": "ae2:spatial_anchor"
+            },
+            {
+                "item": "minecraft:written_book",
+                "nbt": "{filtered_title:\"Chunk Loaders\",pages:['{\"text\":\"Chunk Loading has been disabled. Speak to Tur on Discord to learn more. Sorry.\"}'], title: \"Chunk Loaders\", author: \"JayTurnr\", authentic: true}"
+            }
+        ]
+    ],
+    "processingTime": 350,
+    "results": [
+        {
+            "count": 12,
+            "item": "ae2:quartz_glass"
+        },
+        {
+            "count": 8,
+            "item": "ae2:fluix_glass_cable"
+        },
+        {
+            "count": 6,
+            "item": "ae2:fluix_dust"
+        },
+        {
+            "count": 3,
+            "item": "ae2:fluix_crystal"
+        },
+        {
+            "count": 2,
+            "item": "minecraft:iron_ingot"
+        },
+        {
+            "item": "ae2:spatial_cell_component_128"
+        },
+        {
+            "item": "ae2:engineering_processor"
+        }
+    ]
+}
