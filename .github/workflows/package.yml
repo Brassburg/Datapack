@@ -1,8 +1,13 @@
 name: Create Archive
+
 on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
