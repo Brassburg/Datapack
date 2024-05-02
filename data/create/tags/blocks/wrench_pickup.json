@@ -5,8 +5,6 @@
         "createdeco:brass_hull",
         "createdeco:andesite_hull",
         "createdeco:copper_hull",
-        "createdeco:zinc_hull",
-        "minecraft:hopper",
-        "minecraft:rail"
+        "createdeco:zinc_hull"
     ]
 }
