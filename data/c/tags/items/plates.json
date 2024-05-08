@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "createdeco:andesite_sheet",
     "createdeco:industrial_iron_sheet",
     "createdeco:netherite_sheet",
     "createdeco:zinc_sheet"
