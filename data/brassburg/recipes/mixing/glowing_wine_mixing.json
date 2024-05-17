@@ -1,0 +1,21 @@
+{
+  "recipe": {
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "vinery:grapejuice_white"
+      },
+      {
+        "item": "minecraft:glow_berries"
+      },
+      {
+        "item": "vinery:wine_bottle"
+      }
+    ],
+    "results": [
+      {
+        "item": "vinery:glowing_wine"
+      }
+    ]
+  }
+}
