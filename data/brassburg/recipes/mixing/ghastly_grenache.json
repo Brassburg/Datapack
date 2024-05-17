@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "nethervinery:warped_grapejuice"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "vinery:wine_bottle"
+    }
+  ],
+  "results": [
+    {
+      "item": "nethervinery:ghastly_grenache"
+    }
+  ]
+}

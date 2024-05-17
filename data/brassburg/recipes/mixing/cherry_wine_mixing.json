@@ -2,10 +2,10 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "vinery:grapejuice_white"
+      "tag": "vinery:grapejuice_red"
     },
     {
-      "item": "minecraft:glow_berries"
+      "item": "vinery:cherry"
     },
     {
       "item": "vinery:wine_bottle"
@@ -13,7 +13,7 @@
   ],
   "results": [
     {
-      "item": "vinery:glowing_wine"
+      "item": "vinery:cherry_wine"
     }
   ]
 }
