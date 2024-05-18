@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:raw_copper_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:spiraled_raw_copper_block",
-      "count": 1
+      "count": 1,
+      "item": "chipped:spiraled_raw_copper_block"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

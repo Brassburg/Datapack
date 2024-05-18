@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:clay"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:sad_clay",
-      "count": 1
+      "count": 1,
+      "item": "chipped:sad_clay"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

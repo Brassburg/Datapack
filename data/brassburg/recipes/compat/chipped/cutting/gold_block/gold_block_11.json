@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:gold_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:ancient_gold_block",
-      "count": 1
+      "count": 1,
+      "item": "chipped:ancient_gold_block"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

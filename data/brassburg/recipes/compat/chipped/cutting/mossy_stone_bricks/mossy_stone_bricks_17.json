@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:mossy_stone_bricks"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:sad_mossy_stone_bricks",
-      "count": 1
+      "count": 1,
+      "item": "chipped:sad_mossy_stone_bricks"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

@@ -1,6 +1,4 @@
 {
-    "replace": false,
-    "values": [
-        "#chipped:glass_pane"
-    ]
+  "replace": false,
+  "values": ["#chipped:glass_pane"]
 }

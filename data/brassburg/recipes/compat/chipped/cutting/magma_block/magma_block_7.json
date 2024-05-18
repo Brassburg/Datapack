@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:magma_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:rough_magma_block",
-      "count": 1
+      "count": 1,
+      "item": "chipped:rough_magma_block"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

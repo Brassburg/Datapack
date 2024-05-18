@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:smooth_stone"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:checkered_smooth_stone_tiles",
-      "count": 1
+      "count": 1,
+      "item": "chipped:checkered_smooth_stone_tiles"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

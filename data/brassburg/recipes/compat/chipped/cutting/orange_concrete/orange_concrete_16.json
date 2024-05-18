@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:orange_concrete"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:wired_orange_concrete",
-      "count": 1
+      "count": 1,
+      "item": "chipped:wired_orange_concrete"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

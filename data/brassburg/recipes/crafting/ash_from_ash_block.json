@@ -1,12 +1,12 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "chipped:ash_sand"
-        }
-    ],
-    "result": {
-        "item": "supplementaries:ash",
-        "count": 4
+  "ingredients": [
+    {
+      "item": "chipped:ash_sand"
     }
+  ],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:ash"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

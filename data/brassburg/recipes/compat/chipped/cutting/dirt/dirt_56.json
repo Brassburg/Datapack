@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:dirt"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:simple_dirt_pillar",
-      "count": 1
+      "count": 1,
+      "item": "chipped:simple_dirt_pillar"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

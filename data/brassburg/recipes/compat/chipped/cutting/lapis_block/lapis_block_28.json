@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:lapis_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:inscribed_lapis_block",
-      "count": 1
+      "count": 1,
+      "item": "chipped:inscribed_lapis_block"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

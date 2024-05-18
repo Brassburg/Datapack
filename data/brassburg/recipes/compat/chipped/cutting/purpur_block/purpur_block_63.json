@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:purpur_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:curly_purpur_block_pillar",
-      "count": 1
+      "count": 1,
+      "item": "chipped:curly_purpur_block_pillar"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

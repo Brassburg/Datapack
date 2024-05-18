@@ -1,6 +1,4 @@
 {
-    "replace": false,
-    "values": [
-        "#farmersdelight:drinks"
-    ]
+  "replace": false,
+  "values": ["#farmersdelight:drinks"]
 }

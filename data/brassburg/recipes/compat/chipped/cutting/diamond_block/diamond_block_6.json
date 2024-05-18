@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:diamond_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:layered_diamond_block",
-      "count": 1
+      "count": 1,
+      "item": "chipped:layered_diamond_block"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

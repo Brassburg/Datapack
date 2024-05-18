@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:dark_prismarine"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:cracked_flat_dark_prismarine_tiles",
-      "count": 1
+      "count": 1,
+      "item": "chipped:cracked_flat_dark_prismarine_tiles"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

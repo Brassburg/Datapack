@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:amethyst_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:creeper_amethyst_block_carving",
-      "count": 1
+      "count": 1,
+      "item": "chipped:creeper_amethyst_block_carving"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

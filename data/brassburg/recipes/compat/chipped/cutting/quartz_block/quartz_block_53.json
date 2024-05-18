@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:quartz_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:tiny_quartz_block_bricks",
-      "count": 1
+      "count": 1,
+      "item": "chipped:tiny_quartz_block_bricks"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

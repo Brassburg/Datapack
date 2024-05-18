@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:calcite"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:sanded_calcite",
-      "count": 1
+      "count": 1,
+      "item": "chipped:sanded_calcite"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:basalt"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:tiled_basalt",
-      "count": 1
+      "count": 1,
+      "item": "chipped:tiled_basalt"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

@@ -1,5 +1,4 @@
 {
-  "type": "create:mixing",
   "ingredients": [
     {
       "item": "nethervinery:warped_grapejuice"
@@ -15,5 +14,6 @@
     {
       "item": "nethervinery:ghastly_grenache"
     }
-  ]
+  ],
+  "type": "create:mixing"
 }

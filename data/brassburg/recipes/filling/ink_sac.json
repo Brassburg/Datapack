@@ -1,18 +1,18 @@
 {
-    "type": "create:filling",
-    "ingredients": [
-        {
-            "item": "minecraft:leather"
-        },
-        {
-            "amount": 20250,
-            "fluid": "create_enchantment_industry:ink",
-            "nbt": {}
-        }
-    ],
-    "results": [
-        {
-            "item": "minecraft:ink_sac"
-        }
-    ]
+  "ingredients": [
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "amount": 20250,
+      "fluid": "create_enchantment_industry:ink",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:ink_sac"
+    }
+  ],
+  "type": "create:filling"
 }

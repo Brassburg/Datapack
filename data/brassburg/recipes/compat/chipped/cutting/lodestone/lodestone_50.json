@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:lodestone"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:tiled_lodestone",
-      "count": 1
+      "count": 1,
+      "item": "chipped:tiled_lodestone"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

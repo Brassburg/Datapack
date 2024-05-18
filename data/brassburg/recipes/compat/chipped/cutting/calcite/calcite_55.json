@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:calcite"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:tiny_layered_calcite_slabs",
-      "count": 1
+      "count": 1,
+      "item": "chipped:tiny_layered_calcite_slabs"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

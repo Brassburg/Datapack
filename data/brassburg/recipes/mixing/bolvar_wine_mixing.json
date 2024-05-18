@@ -1,5 +1,4 @@
 {
-  "type": "create:mixing",
   "ingredients": [
     {
       "item": "vinery:red_taiga_grapejuice"
@@ -18,5 +17,6 @@
     {
       "item": "vinery:bolvar_wine"
     }
-  ]
+  ],
+  "type": "create:mixing"
 }

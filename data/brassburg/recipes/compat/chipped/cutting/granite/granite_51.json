@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:granite"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:tiled_granite_column",
-      "count": 1
+      "count": 1,
+      "item": "chipped:tiled_granite_column"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

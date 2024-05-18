@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:glass"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:large_diamond_leaded_glass",
-      "count": 1
+      "count": 1,
+      "item": "chipped:large_diamond_leaded_glass"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

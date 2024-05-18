@@ -1,16 +1,16 @@
 {
-    "type": "create:mixing",
-    "ingredients": [
-        {
-            "tag": "supplementaries:straw"
-        },
-        {
-            "item": "minecraft:clay_ball"
-        }
-    ],
-    "results": [
-        {
-            "item": "supplementaries:daub"
-        }
-    ]
+  "ingredients": [
+    {
+      "tag": "supplementaries:straw"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    }
+  ],
+  "results": [
+    {
+      "item": "supplementaries:daub"
+    }
+  ],
+  "type": "create:mixing"
 }

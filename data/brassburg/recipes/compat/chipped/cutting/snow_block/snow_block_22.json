@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:snow_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:edged_snow_block_bricks",
-      "count": 1
+      "count": 1,
+      "item": "chipped:edged_snow_block_bricks"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

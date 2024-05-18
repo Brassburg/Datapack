@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:obsidian"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:prismal_obsidian_remnants",
-      "count": 1
+      "count": 1,
+      "item": "chipped:prismal_obsidian_remnants"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

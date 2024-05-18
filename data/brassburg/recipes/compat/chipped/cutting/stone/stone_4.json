@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:stone"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:stone_pillar_top",
-      "count": 1
+      "count": 1,
+      "item": "chipped:stone_pillar_top"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

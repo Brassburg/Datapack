@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:ancient_debris"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:ancient_debris_mini_tiles",
-      "count": 1
+      "count": 1,
+      "item": "chipped:ancient_debris_mini_tiles"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

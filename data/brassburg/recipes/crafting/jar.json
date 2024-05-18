@@ -1,38 +1,34 @@
 {
-    "group": "jar",
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "212",
-        "2 2",
-        "222"
-    ],
-    "key": {
-        "1": {
-            "tag": "minecraft:wooden_slabs"
-        },
-        "2": [
-            {
-                "tag": "c:colorless_glass"
-            },
-            {
-                "item": "connectedglass:clear_glass"
-            },
-            {
-                "item": "connectedglass:borderless_glass"
-            },
-            {
-                "item": "chipped:clear_leaded_glass"
-            }
-        ]
+  "conditions": [
+    {
+      "flag": "jar",
+      "type": "supplementaries:flag"
+    }
+  ],
+  "group": "jar",
+  "key": {
+    "1": {
+      "tag": "minecraft:wooden_slabs"
     },
-    "result": {
-        "item": "supplementaries:jar",
-        "count": 1
-    },
-    "conditions": [
-        {
-            "type": "supplementaries:flag",
-            "flag": "jar"
-        }
+    "2": [
+      {
+        "tag": "c:colorless_glass"
+      },
+      {
+        "item": "connectedglass:clear_glass"
+      },
+      {
+        "item": "connectedglass:borderless_glass"
+      },
+      {
+        "item": "chipped:clear_leaded_glass"
+      }
     ]
+  },
+  "pattern": ["212", "2 2", "222"],
+  "result": {
+    "count": 1,
+    "item": "supplementaries:jar"
+  },
+  "type": "minecraft:crafting_shaped"
 }

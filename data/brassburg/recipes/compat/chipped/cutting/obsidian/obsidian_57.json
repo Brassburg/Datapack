@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:obsidian"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:trodden_obsidian",
-      "count": 1
+      "count": 1,
+      "item": "chipped:trodden_obsidian"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:netherrack"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:prismal_netherrack_remnants",
-      "count": 1
+      "count": 1,
+      "item": "chipped:prismal_netherrack_remnants"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

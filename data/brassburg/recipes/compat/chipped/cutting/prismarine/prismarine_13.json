@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:prismarine"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:brick_bordered_prismarine",
-      "count": 1
+      "count": 1,
+      "item": "chipped:brick_bordered_prismarine"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

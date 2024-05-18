@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:dirt"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:cut_blank_dirt",
-      "count": 1
+      "count": 1,
+      "item": "chipped:cut_blank_dirt"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

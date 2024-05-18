@@ -1,5 +1,4 @@
 {
-  "type": "create:milling",
   "ingredients": [
     {
       "item": "chipped:ash_sand"
@@ -8,13 +7,14 @@
   "processingTime": 100,
   "results": [
     {
-      "item": "supplementaries:ash",
-      "count": 4
+      "count": 4,
+      "item": "supplementaries:ash"
     },
     {
       "chance": 0.15,
       "count": 1,
       "item": "minecraft:sand"
     }
-  ]
+  ],
+  "type": "create:milling"
 }

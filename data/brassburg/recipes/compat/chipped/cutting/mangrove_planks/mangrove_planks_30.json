@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:mangrove_planks"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:double_herringbone_mangrove_planks",
-      "count": 1
+      "count": 1,
+      "item": "chipped:double_herringbone_mangrove_planks"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

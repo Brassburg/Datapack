@@ -1,25 +1,25 @@
 {
-    "type": "create:mixing",
-    "heatRequirement": "heated",
-    "ingredients": [
-        {
-            "item": "minecraft:sugar"
-        },
-        {
-            "fluid": "milk:still_milk",
-            "amount": 81000
-        },
-        {
-            "tag": "c:dough"
-        },
-        {
-            "tag": "c:eggs"
-        }
-    ],
-    "results": [
-        {
-            "item": "supplementaries:pancake",
-            "count": 3
-        }
-    ]
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "amount": 81000,
+      "fluid": "milk:still_milk"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:eggs"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "supplementaries:pancake"
+    }
+  ],
+  "type": "create:mixing"
 }

@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:waxed_oxidized_copper"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:engraved_waxed_oxidized_copper",
-      "count": 1
+      "count": 1,
+      "item": "chipped:engraved_waxed_oxidized_copper"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

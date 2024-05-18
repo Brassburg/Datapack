@@ -1,7 +1,4 @@
 {
-    "replace": false,
-    "values": [
-        "#c:colorless_glass",
-        "#chipped:glass"
-    ]
+  "replace": false,
+  "values": ["#c:colorless_glass", "#chipped:glass"]
 }

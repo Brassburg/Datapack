@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:blue_ice"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:tiny_layered_blue_ice_slabs",
-      "count": 1
+      "count": 1,
+      "item": "chipped:tiny_layered_blue_ice_slabs"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

@@ -1,5 +1,4 @@
 {
-  "type": "create:mixing",
   "ingredients": [
     {
       "item": "nethervinery:crimson_grape"
@@ -18,5 +17,6 @@
     {
       "item": "nethervinery:crimson_grapejuice"
     }
-  ]
+  ],
+  "type": "create:mixing"
 }

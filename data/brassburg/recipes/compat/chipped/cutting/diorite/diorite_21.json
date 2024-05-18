@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:diorite"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:cobbled_diorite",
-      "count": 1
+      "count": 1,
+      "item": "chipped:cobbled_diorite"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

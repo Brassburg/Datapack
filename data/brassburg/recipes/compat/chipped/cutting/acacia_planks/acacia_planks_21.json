@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:acacia_planks"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:diagonal_acacia_planks",
-      "count": 1
+      "count": 1,
+      "item": "chipped:diagonal_acacia_planks"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

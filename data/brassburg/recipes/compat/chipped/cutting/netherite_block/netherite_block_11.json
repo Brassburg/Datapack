@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:netherite_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:ancient_netherite_block",
-      "count": 1
+      "count": 1,
+      "item": "chipped:ancient_netherite_block"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

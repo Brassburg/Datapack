@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:glass_pane"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:arched_leaded_glass_pillar_pane",
-      "count": 1
+      "count": 1,
+      "item": "chipped:arched_leaded_glass_pillar_pane"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

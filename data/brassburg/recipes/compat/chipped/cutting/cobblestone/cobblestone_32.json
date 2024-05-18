@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:cobblestone"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:overlapping_cobblestone_tiles",
-      "count": 1
+      "count": 1,
+      "item": "chipped:overlapping_cobblestone_tiles"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

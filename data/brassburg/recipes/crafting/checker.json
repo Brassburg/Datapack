@@ -1,25 +1,22 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "10",
-        "01"
-    ],
-    "key": {
-        "0": {
-            "item": "minecraft:white_concrete"
-        },
-        "1": {
-            "item": "minecraft:black_concrete"
-        }
+  "conditions": [
+    {
+      "flag": "checker_block",
+      "type": "supplementaries:flag"
+    }
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:white_concrete"
     },
-    "result": {
-        "item": "supplementaries:checker_block",
-        "count": 4
-    },
-    "conditions": [
-        {
-            "type": "supplementaries:flag",
-            "flag": "checker_block"
-        }
-    ]
+    "1": {
+      "item": "minecraft:black_concrete"
+    }
+  },
+  "pattern": ["10", "01"],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:checker_block"
+  },
+  "type": "minecraft:crafting_shaped"
 }

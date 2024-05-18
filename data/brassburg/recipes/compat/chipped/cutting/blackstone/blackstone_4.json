@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:blackstone"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:blackstone_pillar_top",
-      "count": 1
+      "count": 1,
+      "item": "chipped:blackstone_pillar_top"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

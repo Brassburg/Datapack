@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:bricks"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:tiny_layered_bricks_slabs",
-      "count": 1
+      "count": 1,
+      "item": "chipped:tiny_layered_bricks_slabs"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

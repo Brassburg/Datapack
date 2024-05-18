@@ -1,16 +1,13 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "AA",
-        "AA"
-    ],
-    "key": {
-        "A": {
-            "item": "supplementaries:ash"
-        }
-    },
-    "result": {
-        "item": "chipped:ash_sand",
-        "count": 1
+  "key": {
+    "A": {
+      "item": "supplementaries:ash"
     }
+  },
+  "pattern": ["AA", "AA"],
+  "result": {
+    "count": 1,
+    "item": "chipped:ash_sand"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:spruce_planks"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:stacked_spruce_planks",
-      "count": 1
+      "count": 1,
+      "item": "chipped:stacked_spruce_planks"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

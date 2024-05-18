@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:mangrove_planks"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:oak_plamangrove_planks",
-      "count": 1
+      "count": 1,
+      "item": "chipped:oak_plamangrove_planks"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

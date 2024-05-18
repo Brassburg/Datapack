@@ -1,23 +1,23 @@
 {
-    "type": "create:mixing",
-    "heatRequirement": "heated",
-    "ingredients": [
-        {
-            "item": "minecraft:gold_nugget"
-        },
-        {
-            "item": "minecraft:gold_nugget"
-        },
-        {
-            "item": "minecraft:gold_nugget"
-        },
-        {
-            "item": "minecraft:blackstone"
-        }
-    ],
-    "results": [
-        {
-            "item": "minecraft:gilded_blackstone"
-        }
-    ]
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:gilded_blackstone"
+    }
+  ],
+  "type": "create:mixing"
 }

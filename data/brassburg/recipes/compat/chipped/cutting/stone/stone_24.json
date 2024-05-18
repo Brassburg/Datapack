@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:stone"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:eroded_stone",
-      "count": 1
+      "count": 1,
+      "item": "chipped:eroded_stone"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

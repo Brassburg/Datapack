@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:crimson_planks"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:crimson_planks_shavings",
-      "count": 1
+      "count": 1,
+      "item": "chipped:crimson_planks_shavings"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

@@ -1,5 +1,5 @@
 {
-  "type": "create:mixing",
+  "heatRequirement": "heated",
   "ingredients": [
     {
       "tag": "c:gold_ingots"
@@ -10,9 +10,9 @@
   ],
   "results": [
     {
-      "item": "createaddition:electrum_ingot",
-      "count": 2
+      "count": 2,
+      "item": "createaddition:electrum_ingot"
     }
   ],
-  "heatRequirement": "heated"
+  "type": "create:mixing"
 }

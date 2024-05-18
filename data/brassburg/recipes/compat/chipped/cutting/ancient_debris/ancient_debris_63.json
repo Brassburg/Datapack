@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:ancient_debris"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:curly_ancient_debris_pillar",
-      "count": 1
+      "count": 1,
+      "item": "chipped:curly_ancient_debris_pillar"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:stone"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:massive_stone_bricks",
-      "count": 1
+      "count": 1,
+      "item": "chipped:massive_stone_bricks"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

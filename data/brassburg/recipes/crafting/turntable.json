@@ -1,14 +1,14 @@
 {
-    "type": "crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "create:turntable"
-        },
-        {
-            "item": "minecraft:redstone"
-        }
-    ],
-    "result": {
-        "item": "supplementaries:turn_table"
+  "ingredients": [
+    {
+      "item": "create:turntable"
+    },
+    {
+      "item": "minecraft:redstone"
     }
+  ],
+  "result": {
+    "item": "supplementaries:turn_table"
+  },
+  "type": "crafting_shapeless"
 }

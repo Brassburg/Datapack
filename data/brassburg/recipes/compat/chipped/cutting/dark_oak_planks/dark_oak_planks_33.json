@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:dark_oak_planks"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:herringbone_dark_oak_planks",
-      "count": 1
+      "count": 1,
+      "item": "chipped:herringbone_dark_oak_planks"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

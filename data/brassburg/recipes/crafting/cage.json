@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "111",
-    "2 2",
-    "000"
+  "conditions": [
+    {
+      "flag": "cage",
+      "type": "supplementaries:flag"
+    }
   ],
   "key": {
     "0": {
@@ -26,14 +26,10 @@
       }
     ]
   },
+  "pattern": ["111", "2 2", "000"],
   "result": {
-    "item": "supplementaries:cage",
-    "count": 1
+    "count": 1,
+    "item": "supplementaries:cage"
   },
-  "conditions": [
-    {
-      "type": "supplementaries:flag",
-      "flag": "cage"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

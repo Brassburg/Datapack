@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:light_blue_concrete"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:striped_light_blue_concrete",
-      "count": 1
+      "count": 1,
+      "item": "chipped:striped_light_blue_concrete"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

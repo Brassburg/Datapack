@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:bricks"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:cracked_flat_bricks_tiles",
-      "count": 1
+      "count": 1,
+      "item": "chipped:cracked_flat_bricks_tiles"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

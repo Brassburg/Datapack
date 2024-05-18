@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:sandstone"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:inscribed_sandstone",
-      "count": 1
+      "count": 1,
+      "item": "chipped:inscribed_sandstone"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

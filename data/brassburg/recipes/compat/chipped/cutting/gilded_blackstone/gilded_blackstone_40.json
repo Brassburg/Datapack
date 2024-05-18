@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:gilded_blackstone"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:sanded_gilded_blackstone",
-      "count": 1
+      "count": 1,
+      "item": "chipped:sanded_gilded_blackstone"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

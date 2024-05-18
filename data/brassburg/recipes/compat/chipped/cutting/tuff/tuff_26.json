@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:tuff"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:flat_tuff_tiles",
-      "count": 1
+      "count": 1,
+      "item": "chipped:flat_tuff_tiles"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

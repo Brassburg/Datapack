@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:raw_iron_block"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:duh_raw_iron_block",
-      "count": 1
+      "count": 1,
+      "item": "chipped:duh_raw_iron_block"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

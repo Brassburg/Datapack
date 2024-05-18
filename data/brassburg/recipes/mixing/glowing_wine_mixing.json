@@ -1,5 +1,4 @@
 {
-  "type": "create:mixing",
   "ingredients": [
     {
       "tag": "vinery:grapejuice_white"
@@ -15,5 +14,6 @@
     {
       "item": "vinery:glowing_wine"
     }
-  ]
+  ],
+  "type": "create:mixing"
 }

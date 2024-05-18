@@ -1,17 +1,17 @@
 {
-    "type": "create:mixing",
-    "heatRequirement": "heated",
-    "ingredients": [
-        {
-            "item": "minecraft:quartz"
-        },
-        {
-            "item": "minecraft:iron_nugget"
-        }
-    ],
-    "results": [
-        {
-            "item": "twigs:bloodstone"
-        }
-    ]
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    }
+  ],
+  "results": [
+    {
+      "item": "twigs:bloodstone"
+    }
+  ],
+  "type": "create:mixing"
 }

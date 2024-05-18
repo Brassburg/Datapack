@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:red_sandstone"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:prismal_red_sandstone_remnants",
-      "count": 1
+      "count": 1,
+      "item": "chipped:prismal_red_sandstone_remnants"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

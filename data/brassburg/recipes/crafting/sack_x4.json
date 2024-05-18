@@ -1,26 +1,22 @@
 {
-    "conditions": [
-        {
-            "type": "supplementaries:flag",
-            "flag": "sack"
-        }
-    ],
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "121",
-        "1 1",
-        "111"
-    ],
-    "key": {
-        "1": {
-            "item": "farmersdelight:canvas"
-        },
-        "2": {
-            "item": "minecraft:string"
-        }
-    },
-    "result": {
-        "item": "supplementaries:sack",
-        "count": 4
+  "conditions": [
+    {
+      "flag": "sack",
+      "type": "supplementaries:flag"
     }
+  ],
+  "key": {
+    "1": {
+      "item": "farmersdelight:canvas"
+    },
+    "2": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": ["121", "1 1", "111"],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:sack"
+  },
+  "type": "minecraft:crafting_shaped"
 }

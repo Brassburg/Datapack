@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:glass"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:oak_line_bared_glass",
-      "count": 1
+      "count": 1,
+      "item": "chipped:oak_line_bared_glass"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

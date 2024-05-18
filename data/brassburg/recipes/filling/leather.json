@@ -1,21 +1,21 @@
 {
-    "type": "create:filling",
-    "ingredients": [
-        {
-            "item": "minecraft:rotten_flesh"
-        },
-        {
-            "amount": 2025,
-            "fluid": "create:potion",
-            "nbt": {
-                "Bottle": "REGULAR",
-                "Potion": "minecraft:healing"
-            }
-        }
-    ],
-    "results": [
-        {
-            "item": "minecraft:leather"
-        }
-    ]
+  "ingredients": [
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "amount": 2025,
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:healing"
+      }
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "type": "create:filling"
 }

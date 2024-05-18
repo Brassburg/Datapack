@@ -1,5 +1,4 @@
 {
-  "type": "create:mixing",
   "ingredients": [
     {
       "item": "nethervinery:crimson_grapejuice"
@@ -15,5 +14,6 @@
     {
       "item": "nethervinery:blazewine_pinot"
     }
-  ]
+  ],
+  "type": "create:mixing"
 }

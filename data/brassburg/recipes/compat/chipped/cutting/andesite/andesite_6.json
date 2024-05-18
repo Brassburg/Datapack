@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:andesite"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:thick_inlayed_andesite",
-      "count": 1
+      "count": 1,
+      "item": "chipped:thick_inlayed_andesite"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

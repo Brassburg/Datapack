@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:andesite"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:trodden_andesite",
-      "count": 1
+      "count": 1,
+      "item": "chipped:trodden_andesite"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

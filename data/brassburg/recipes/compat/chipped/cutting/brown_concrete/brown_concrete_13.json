@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:brown_concrete"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:bolted_brown_concrete",
-      "count": 1
+      "count": 1,
+      "item": "chipped:bolted_brown_concrete"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

@@ -1,6 +1,4 @@
 {
   "replace": false,
-  "values": [
-    "createdeco:industrial_iron_sheet"
-  ]
+  "values": ["createdeco:industrial_iron_sheet"]
 }

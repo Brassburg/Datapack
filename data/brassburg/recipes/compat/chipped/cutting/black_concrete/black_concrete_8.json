@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:black_concrete"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:creeper_black_concrete",
-      "count": 1
+      "count": 1,
+      "item": "chipped:creeper_black_concrete"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }

@@ -1,15 +1,15 @@
 {
-  "type": "create:cutting",
   "ingredients": [
     {
       "tag": "chipped:tuff"
     }
   ],
+  "processingTime": 50,
   "results": [
     {
-      "item": "chipped:offset_tuff_bricks",
-      "count": 1
+      "count": 1,
+      "item": "chipped:offset_tuff_bricks"
     }
   ],
-  "processingTime": 50
+  "type": "create:cutting"
 }
