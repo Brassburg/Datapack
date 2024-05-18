@@ -23,12 +23,12 @@ jobs:
         uses: thedoctor0/zip-release@0.7.1
         with:
           type: "zip"
-          filename: "BrassburgFixes-${{ steps.bump.outputs.new_tag }}.zip"
+          filename: "Brassburg-${{ steps.bump.outputs.new_tag }}.zip"
           exclusions: "*.git*"
       - name: Upload to GitHub
         uses: ncipollo/release-action@v1.12.0
         with:
-          artifacts: "BrassburgFixes-${{ steps.bump.outputs.new_tag }}.zip"
+          artifacts: "Brassburg-${{ steps.bump.outputs.new_tag }}.zip"
           artifactErrorsFailBuild: true
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ steps.bump.outputs.new_tag }}
