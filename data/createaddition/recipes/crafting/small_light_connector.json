@@ -5,7 +5,7 @@
 		    "tag": "c:wires/iron"
 		},
 		{
-		    "tag": "minecraft:glass"
+		    "tag": "c:glass"
 		},
 		{
 		    "item": "createaddition:connector"
