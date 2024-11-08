@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo_block"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 9,
+      "item": "minecraft:bamboo"
+    }
+  ],
+  "type": "create:cutting"
+}
