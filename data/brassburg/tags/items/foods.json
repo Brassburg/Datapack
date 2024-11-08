@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "create:bar_of_chocolate",
+    "create:chocolate_glazed_berries",
+    "create:honeyed_apple",
+    "create:sweet_roll"
+  ]
+}
