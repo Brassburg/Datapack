@@ -1,0 +1,18 @@
+{
+  "key": {
+    "C": {
+      "item": "create:brass_casing"
+    },
+    "I": {
+      "tag": "c:iron_plates"
+    },
+    "R": {
+      "tag": "supplementaries:ropes"
+    }
+  },
+  "pattern": ["C", "R", "I"],
+  "result": {
+    "item": "create:elevator_pulley"
+  },
+  "type": "minecraft:crafting_shaped"
+}
