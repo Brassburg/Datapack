@@ -1,0 +1,38 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "brewery:hops"
+    },
+    {
+		"item": "minecraft:popped_chorus_fruit"
+    },
+    {
+		"item": "minecraft:popped_chorus_fruit"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"amount": 81000,
+		"fluid": "minecraft:water",
+		"nbt": {}
+    }
+  ],
+"results": [
+    {
+		"item": "brewery:beer_haley",
+		"count": 4
+    }
+  ]
+}

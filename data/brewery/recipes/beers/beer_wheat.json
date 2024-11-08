@@ -1,0 +1,38 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "brewery:hops"
+    },
+    {
+		"item": "brewery:dried_wheat"
+    },
+    {
+		"item": "brewery:dried_wheat"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"amount": 81000,
+		"fluid": "minecraft:water",
+		"nbt": {}
+    }
+  ],
+"results": [
+    {
+		"item": "brewery:beer_wheat",
+		"count": 4
+    }
+  ]
+}

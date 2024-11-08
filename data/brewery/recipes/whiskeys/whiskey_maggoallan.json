@@ -1,0 +1,38 @@
+{
+"type": "create:mixing",
+"heatRequirement": "superheated",
+"ingredients": [
+    {
+		"item": "minecraft:brown_mushroom"
+    },
+    {
+		"item": "brewery:dried_wheat"
+    },
+    {
+		"item": "brewery:dried_wheat"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"item": "brewery:beer_mug"
+    },
+    {
+		"amount": 81000,
+		"fluid": "minecraft:water",
+		"nbt": {}
+    }
+  ],
+"results": [
+    {
+		"item": "brewery:whiskey_maggoallan",
+		"count": 4
+    }
+  ]
+}
