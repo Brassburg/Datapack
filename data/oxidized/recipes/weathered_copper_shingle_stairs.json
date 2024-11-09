@@ -1,0 +1,18 @@
+{
+        "type": "create:filling",
+        "ingredients": [
+        {
+        "item": "create:exposed_copper_shingle_stairs"
+        },
+        {
+        "fluid": "minecraft:water",
+        "amount": 20250,
+        "nbt": {}
+        }
+        ],
+        "results": [
+        {
+        "item": "create:weathered_copper_shingle_stairs"
+        }
+        ]
+        }

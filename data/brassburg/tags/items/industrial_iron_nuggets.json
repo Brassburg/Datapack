@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "createdeco:industrial_iron_nugget",
+    "create_dd:industrial_iron_nugget"
+  ]
+}

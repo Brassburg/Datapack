@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "createdeco:zinc_sheet",
+	"createaddition:zinc_sheet",
+	"create_dd:zinc_sheet"
+	]
+}

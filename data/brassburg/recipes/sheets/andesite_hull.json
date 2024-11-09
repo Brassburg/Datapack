@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": {
+      "tag": "brassburg:andesite_sheets"
+    },
+    "p": {
+      "tag": "createdeco:internal/blocks/andesite_blocks"
+    }
+  },
+  "pattern": [
+    " m ",
+    "mpm",
+    " m "
+  ],
+  "result": {
+    "count": 2,
+    "item": "createdeco:andesite_hull"
+  },
+  "show_notification": true
+}
