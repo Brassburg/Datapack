@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "minecraft:wheat"
+    },
+    "result": "brewery:dried_wheat",
+    "experience": 0.0,
+    "cookingtime": 40
+}

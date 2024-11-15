@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "brewery:corn"
+    },
+    "result": "brewery:dried_corn",
+    "experience": 0.0,
+    "cookingtime": 40
+}
