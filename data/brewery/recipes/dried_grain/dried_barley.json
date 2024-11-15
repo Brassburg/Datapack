@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "brewery:barley"
+    },
+    "result": "brewery:dried_barley",
+    "experience": 0.0,
+    "cookingtime": 400
+}
