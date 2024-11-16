@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:moss_carpet"
+        }
+    },
+    "result": {
+        "item": "minecraft:moss_block",
+        "count": 1
+    }
+}
