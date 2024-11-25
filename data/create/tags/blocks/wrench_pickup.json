@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "brassburg:atm",
+    "create:schematicannon",
+    "create:schematic_table",
     "createdeco:andesite_bars",
     "createdeco:andesite_bars_overlay",
     "createdeco:andesite_hull",
