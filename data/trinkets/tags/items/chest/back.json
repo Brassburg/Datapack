@@ -1,7 +1,9 @@
 {
   "replace": false,
   "values": [
-    "create_jetpack:jetpack",
-	"create_jetpack:netherite_jetpack"
+    	"create_jetpack:jetpack",
+	"create_jetpack:netherite_jetpack",
+	"create:copper_backtank",
+	"create:netherite_backtank"
   ]
 }
