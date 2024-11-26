@@ -1,0 +1,10 @@
+{
+  "items": [
+    "minecraft:slime_ball"
+  ],
+  "reload_ticks": 4,
+  "velocity_multiplier": 1.4,
+  "sticky": true,
+  "damage": 1,
+  "sound_pitch": 1.7
+}
