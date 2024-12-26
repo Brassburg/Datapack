@@ -1,0 +1,24 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "vinery:apple_wine"
+    },
+    {
+		"item": "vinery:chenet_wine"
+    },
+    {
+		"item": "vinery:bolvar_wine"
+    },
+    {
+		"item": "vinery:white_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:jellie_wine",
+		"count": 1
+    }
+  ]
+}

@@ -1,4 +1,6 @@
 {
+  "type": "create:mixing",
+  "heatRequirement": "heated",
   "ingredients": [
     {
       "item": "nethervinery:warped_grape"
@@ -17,6 +19,5 @@
     {
       "item": "nethervinery:warped_grapejuice"
     }
-  ],
-  "type": "create:mixing"
+  ]
 }

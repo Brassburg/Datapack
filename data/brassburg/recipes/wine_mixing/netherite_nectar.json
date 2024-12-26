@@ -1,0 +1,18 @@
+{
+"type": "create:mixing",
+"heatRequirement": "superheated",
+"ingredients": [
+    {
+		"item": "minecraft:netherite_scrap"
+    },
+    {
+		"item": "nethervinery:crimson_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "nethervinery:netherite_nectar",
+		"count": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "vinery:cherry"
+    },
+    {
+		"item": "vinery:red_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:cherry_wine",
+		"count": 1
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:honey_bottle"
+    },
+    {
+		"item": "minecraft:spider_eye"
+    },
+    {
+		"item": "vinery:red_jungle_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:chenet_wine",
+		"count": 1
+    }
+  ]
+}

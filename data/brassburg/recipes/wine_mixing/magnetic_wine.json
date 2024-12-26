@@ -1,0 +1,18 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:iron_ingot"
+    },
+    {
+		"item": "vinery:red_jungle_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:magnetic_wine",
+		"count": 1
+    }
+  ]
+}

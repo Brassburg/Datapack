@@ -1,0 +1,18 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:sweet_berries"
+    },
+    {
+		"item": "vinery:red_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:noir_wine",
+		"count": 1
+    }
+  ]
+}

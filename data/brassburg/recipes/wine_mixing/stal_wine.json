@@ -1,0 +1,21 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:cocoa_beans"
+    },
+    {
+		"item": "minecraft:sugar"
+    },
+    {
+		"item": "vinery:red_jungle_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:stal_wine",
+		"count": 1
+    }
+  ]
+}

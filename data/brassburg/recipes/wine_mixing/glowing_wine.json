@@ -1,0 +1,18 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:glow_berries"
+    },
+    {
+		"item": "vinery:white_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:glowing_wine",
+		"count": 1
+    }
+  ]
+}

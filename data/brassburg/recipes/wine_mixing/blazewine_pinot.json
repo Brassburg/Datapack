@@ -1,0 +1,18 @@
+{
+"type": "create:mixing",
+"heatRequirement": "superheated",
+"ingredients": [
+    {
+		"item": "minecraft:blaze_powder"
+    },
+    {
+		"item": "nethervinery:crimson_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "nethervinery:blazewine_pinot",
+		"count": 1
+    }
+  ]
+}

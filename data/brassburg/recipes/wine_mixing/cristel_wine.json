@@ -1,0 +1,24 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:sugar"
+    },
+    {
+		"item": "minecraft:feather"
+    },
+    {
+		"item": "minecraft:blaze_rod"
+    },
+    {
+		"item": "vinery:red_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:cristel_wine",
+		"count": 1
+    }
+  ]
+}

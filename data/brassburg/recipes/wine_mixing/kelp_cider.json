@@ -1,0 +1,18 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:kelp"
+    },
+    {
+		"item": "vinery:white_savanna_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:kelp_cider",
+		"count": 1
+    }
+  ]
+}

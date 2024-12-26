@@ -1,0 +1,21 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:honey_bottle"
+    },
+    {
+		"item": "minecraft:sweet_berries"
+    },
+    {
+		"item": "vinery:white_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:solaris_wine",
+		"count": 1
+    }
+  ]
+}

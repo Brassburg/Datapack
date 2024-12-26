@@ -1,0 +1,15 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "vinery:apple_juice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:apple_wine",
+		"count": 1
+    }
+  ]
+}

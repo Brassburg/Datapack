@@ -1,0 +1,21 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:honey_bottle"
+    },
+    {
+		"item": "vinery:cherry"
+    },
+    {
+		"item": "vinery:red_taiga_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:bolvar_wine",
+		"count": 1
+    }
+  ]
+}

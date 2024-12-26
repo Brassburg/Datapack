@@ -1,0 +1,18 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:chorus_fruit"
+    },
+    {
+		"item": "vinery:red_taiga_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:chorus_wine",
+		"count": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+"type": "create:mixing",
+"heatRequirement": "heated",
+"ingredients": [
+    {
+		"item": "minecraft:sugar"
+    },
+    {
+		"item": "minecraft:kelp"
+    },
+    {
+		"item": "minecraft:iron_ingot"
+    },
+    {
+		"item": "vinery:white_taiga_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "vinery:aegis_wine",
+		"count": 1
+    }
+  ]
+}

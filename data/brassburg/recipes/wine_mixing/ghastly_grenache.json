@@ -1,0 +1,18 @@
+{
+"type": "create:mixing",
+"heatRequirement": "superheated",
+"ingredients": [
+    {
+		"item": "minecraft:ghast_tear"
+    },
+    {
+		"item": "nethervinery:warped_grapejuice"
+    }
+  ],
+"results": [
+    {
+		"item": "nethervinery:ghastly_grenache",
+		"count": 1
+    }
+  ]
+}
