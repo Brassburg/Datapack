@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "vinery:jungle_grapes_white"
+    },
+    {
+      "item": "vinery:jungle_grapes_white"
+    },
+    {
+      "item": "vinery:jungle_grapes_white"
+    },
+    {
+      "item": "vinery:wine_bottle"
+    }
+  ],
+  "results": [
+    {
+      "item": "vinery:white_jungle_grapejuice"
+    }
+  ]
+}

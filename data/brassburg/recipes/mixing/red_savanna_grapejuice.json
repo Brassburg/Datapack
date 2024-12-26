@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "vinery:savanna_grapes_red"
+    },
+    {
+      "item": "vinery:savanna_grapes_red"
+    },
+    {
+      "item": "vinery:savanna_grapes_red"
+    },
+    {
+      "item": "vinery:wine_bottle"
+    }
+  ],
+  "results": [
+    {
+      "item": "vinery:red_savanna_grapejuice"
+    }
+  ]
+}

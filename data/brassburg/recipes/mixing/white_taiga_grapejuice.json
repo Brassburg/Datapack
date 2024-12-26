@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "vinery:taiga_grapes_white"
+    },
+    {
+      "item": "vinery:taiga_grapes_white"
+    },
+    {
+      "item": "vinery:taiga_grapes_white"
+    },
+    {
+      "item": "vinery:wine_bottle"
+    }
+  ],
+  "results": [
+    {
+      "item": "vinery:white_taiga_grapejuice"
+    }
+  ]
+}
