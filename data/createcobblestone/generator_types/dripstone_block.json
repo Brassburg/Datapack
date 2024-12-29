@@ -1,0 +1,5 @@
+{
+  "block": "minecraft:dripstone_block",
+  "stress": 32,
+  "ratio": 4096
+}
