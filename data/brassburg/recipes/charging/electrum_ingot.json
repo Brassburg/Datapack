@@ -1,0 +1,13 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"item": "minecraft:gold_ingot",
+		"count": 1
+	},
+	"result": {
+		"item": "createaddition:electrum_ingot",
+		"count": 1
+	},
+	"energy": 9000,
+	"maxChargeRate": 200
+}
